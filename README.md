@@ -15,6 +15,8 @@
 ## chapter
 
 - src/ # source
-  - ch2
+  - ch2 # 機械学習入門
+  - ch3 # OpenCV と機械学習・画像・動画入門
+
 - data/ # work data
 - images/ # work images
