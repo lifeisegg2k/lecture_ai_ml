@@ -1,0 +1,11 @@
+jupyter
+numpy
+numexpr
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+tensorflow
+keras
+autopep8
