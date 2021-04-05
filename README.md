@@ -18,5 +18,3 @@
   - ch2
 - data/ # work data
 - images/ # work images
-
-  
