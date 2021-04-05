@@ -7,14 +7,16 @@
 本では、Vargrant を利用するが、ここでは、 Docker を利用する
 
 - Dockerfile\
-  ontinuumio/anaconda3:2020.11 を利用して、 ç を起動
+  continuumio/anaconda3:2020.11 を利用して、 ç を起動
 - docker-compose.yml
 - run_jn.sh\
   jupyter notebook docker 実行 shell 
 
 ## chapter
 
-- src/
-  - ch1
+- src/ # source
   - ch2
-  - ch3
+- data/ # work data
+- images/ # work images
+
+  
