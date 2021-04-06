@@ -9,3 +9,5 @@ scikit-learn
 tensorflow
 keras
 autopep8
+opencv-python
+opencv-contrib-python

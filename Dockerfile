@@ -1,5 +1,6 @@
 FROM continuumio/anaconda3:2020.11
 
+RUN apt-get install -y libgl1-mesa-dev
 RUN pip install --upgrade pip 
 
 WORKDIR /data
