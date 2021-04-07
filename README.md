@@ -11,12 +11,13 @@
 - docker-compose.yml
 - run_jn.sh\
   jupyter notebook docker 実行 shell 
+- mojibake.ipynb\
+  日本語文字化け物の場合使用
 
 ## chapter
 
 - src/ # source
   - ch2 # 機械学習入門
   - ch3 # OpenCV と機械学習・画像・動画入門
-
 - data/ # work data
 - images/ # work images
