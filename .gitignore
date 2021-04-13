@@ -1,4 +1,5 @@
 h.txt
 ori_src/
 ./opencv/
-./scannerwork
+.scannerwork/
+.ipynb_checkpoints
