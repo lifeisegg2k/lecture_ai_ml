@@ -1,5 +1,6 @@
 import cv2
 
+
 def mosaic(img, rect, size):
     # モザイクをかける領域を取得
     (x1, y1, x2, y2) = rect
