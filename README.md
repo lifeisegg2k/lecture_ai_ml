@@ -21,6 +21,7 @@
 - src/ # source
   - ch2 # 機械学習入門
   - ch3 # OpenCV と機械学習・画像・動画入門
+    > 3-5 動画解析... は、docker と Web Camera の接続問題があり、後に行う
 - data/ # work data
 - images/ # work images
 - video/ # sample video
