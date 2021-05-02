@@ -12,7 +12,7 @@
   continuumio/anaconda3:2020.11 を利用して、 ç を起動
 - docker-compose.yml
 - run_jn.sh\
-  jupyter notebook docker 実行 shell 
+  jupyter notebook docker 実行 shell
 - mojibake.ipynb\
   日本語文字化け物の場合使用
 
