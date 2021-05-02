@@ -23,3 +23,4 @@
   - ch3 # OpenCV と機械学習・画像・動画入門
 - data/ # work data
 - images/ # work images
+- video/ # sample video
