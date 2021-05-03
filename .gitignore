@@ -9,3 +9,4 @@ jawiki-latest-pages-articles*
 wiki*
 *.zip
 aozora.model
+markov_dict.json
