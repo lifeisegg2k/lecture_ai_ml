@@ -8,4 +8,4 @@ __pycache__/
 jawiki-latest-pages-articles*
 wiki*
 *.zip
-./src/ch4/aozora.model
+aozora.model
