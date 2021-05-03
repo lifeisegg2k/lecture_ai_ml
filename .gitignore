@@ -7,3 +7,5 @@ __pycache__/
 .ipynb_checkpoints/
 jawiki-latest-pages-articles*
 wiki*
+*.zip
+./src/ch4/aozora.model

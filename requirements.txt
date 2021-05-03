@@ -13,3 +13,5 @@ opencv-python
 opencv-contrib-python
 mecab-python3
 unidic-lite
+gensim
+python-Levenshtein

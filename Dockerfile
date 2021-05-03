@@ -35,6 +35,7 @@ WORKDIR /data
 COPY . .
 
 RUN pip install -r requirements.txt
+# RUN conda install -c conda-forge gensim
 
 EXPOSE 8888
 
