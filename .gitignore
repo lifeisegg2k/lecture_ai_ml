@@ -13,3 +13,4 @@ aozora.model
 markov_dict.json
 .DS_Store
 *.pickle
+__MACOSX
