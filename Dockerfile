@@ -2,7 +2,7 @@ FROM continuumio/anaconda3:2020.11
 
 RUN apt-get update \
     && apt-get install -y curl git sudo cron \
-    python3 python3-pip \
+    python3 python3-pip unzip \
     libgl1-mesa-dev \
     mecab libmecab-dev mecab-ipadic-utf8 \
     software-properties-common \
