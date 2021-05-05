@@ -1,5 +1,5 @@
 *.txt
-ori_src/
+org
 ./opencv/
 .scannerwork/
 .ipynb_checkpoints/
