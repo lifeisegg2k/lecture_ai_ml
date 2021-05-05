@@ -1,5 +1,5 @@
 *.txt
-text
+src/ch4/nospam/text
 ori
 ./opencv/
 .scannerwork/
@@ -10,7 +10,7 @@ jawiki-latest-pages-articles*
 wiki*
 *.zip
 *.tar.gz
-aozora.model
+*.model
 markov_dict.json
 .DS_Store
 *.pickle
