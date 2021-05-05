@@ -14,3 +14,5 @@ markov_dict.json
 .DS_Store
 *.pickle
 __MACOSX
+ETL1
+png-etl1
