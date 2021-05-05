@@ -15,3 +15,6 @@ mecab-python3
 unidic-lite
 gensim
 python-Levenshtein
+pydot
+pydotplus
+graphviz
